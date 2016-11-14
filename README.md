@@ -1,0 +1,2 @@
+# GlobalSearchAI
+GlobalSearch
